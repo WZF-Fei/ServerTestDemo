@@ -1,0 +1,56 @@
+[
+ {
+    "response": {
+       "text": "Hello world!"
+    }
+ },
+ {
+     "request": {
+        "method" : "get",
+        "uri": "/getMethod"
+     },
+    "response": {
+        "text": "This is a Get Method!"
+     }
+ },
+ {
+     "request": {
+        "uri": "/getMethodWithParams",
+        "queries": {
+             "param1": "1",
+             "param2": "2"
+        }
+     },
+    "response": {
+        "text": "This is a method with params!"
+     }
+ },
+{
+    "request": {
+        "uri": "/response_header"
+    },
+    "response": {
+        "headers": {
+            "content-type": "application/json",
+            "sessionid": "e566288ba77de98d"
+        }
+    }
+},
+ {
+     "request": {
+        "method" : "post",
+        "uri": "/postMethod",
+        "headers" : {
+             "content-type" : "application/json",
+             "sessionid": "e566288ba77de98d"
+         },
+        "forms" :{
+          "name" : "Airfei",
+          "password" : "123456"
+        }
+     },
+    "response": {
+        "text": "This is a POST Method!"
+     }
+ }
+]

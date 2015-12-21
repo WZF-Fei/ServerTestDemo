@@ -1,0 +1,112 @@
+[
+  {
+    "assettype": "TD固定资产",
+    "assetname": "空调",
+    "assetcode": "4435-22333111",
+    "barcode": "4435-22333111",
+    "manufacturer": "天津市xxxxx",
+    "unit": "台",
+    "amount": "2",
+    "addrname": "河北省xxxxxxx",
+    "cost": "3500"
+  },
+  {
+    "assettype": "TD固定资产",
+    "assetname": "电脑",
+    "assetcode": "4435-2234566",
+    "barcode": "4435-2234566",
+    "manufacturer": "北京市xxxxx",
+    "unit": "台",
+    "amount": "7",
+    "addrname": "河北省xxxxxxx",
+    "cost": "4500"
+  },
+  {
+    "assettype": "TD固定资产",
+    "assetname": "饮水机",
+    "assetcode": "4735-22333123",
+    "barcode": "4735-22333123",
+    "manufacturer": "上海市xxxxx",
+    "unit": "台",
+    "amount": "5",
+    "addrname": "河北省xxxxxxx",
+    "cost": "1250"
+  },
+  {
+    "assettype": "TD固定资产",
+    "assetname": "打印机",
+    "assetcode": "4435-2334567",
+    "barcode": "4435-2334567",
+    "manufacturer": "天津市xxxxx",
+    "unit": "台",
+    "amount": "5",
+    "addrname": "河北省xxxxxxx",
+    "cost": "2760"
+  },
+  {
+    "assettype": "TD固定资产",
+    "assetname": "电脑桌",
+    "assetcode": "4435-2267998",
+    "barcode": "4435-2267998",
+    "manufacturer": "天津市xxxxx",
+    "unit": "台",
+    "amount": "4",
+    "addrname": "河北省xxxxxxx",
+    "cost": "650"
+  },
+  {
+    "assettype": "TD固定资产",
+    "assetname": "手机",
+    "assetcode": "4435-22345881",
+    "barcode": "4435-22345881",
+    "manufacturer": "天津市xxxxx",
+    "unit": "台",
+    "amount": "2",
+    "addrname": "河北省xxxxxxx",
+    "cost": "5500"
+  },
+  {
+    "assettype": "TD固定资产",
+    "assetname": "柜式空调",
+    "assetcode": "4435-6666444",
+    "barcode": "4435-6666444",
+    "manufacturer": "天津市xxxxx",
+    "unit": "台",
+    "amount": "1",
+    "addrname": "河北省xxxxxxx",
+    "cost": "8800"
+  },
+  {
+    "assettype": "TD固定资产",
+    "assetname": "立式衣架",
+    "assetcode": "4435-8944444",
+    "barcode": "4435-8944444",
+    "manufacturer": "天津市xxxxx",
+    "unit": "个",
+    "amount": "2",
+    "addrname": "河北省xxxxxxx",
+    "cost": "300"
+  },
+  {
+    "assettype": "TD固定资产",
+    "assetname": "加湿器",
+    "assetcode": "4435-3277778",
+    "barcode": "4435-3277778",
+    "manufacturer": "天津市xxxxx",
+    "unit": "台",
+    "amount": "5",
+    "addrname": "河北省xxxxxxx",
+    "cost": "180"
+  },
+  {
+    "assettype": "TD固定资产",
+    "assetname": "转椅",
+    "assetcode": "4435-7844442",
+    "barcode": "4435-7844442",
+    "manufacturer": "天津市xxxxx",
+    "unit": "个",
+    "amount": "14",
+    "addrname": "河北省xxxxxxx",
+    "cost": "400"
+  }
+]

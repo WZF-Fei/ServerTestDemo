@@ -1,0 +1,18 @@
+[
+  {
+    "request" :
+    {
+      "uri" : "/assetApp/login",
+      "method" : "get",
+      "queries" :
+        {
+         "username" : "Airfei",
+         "password" : "123456"
+        }
+    },
+    "response" :
+    {
+      "file" : "./login/login_response.json"
+    }
+  }
+]

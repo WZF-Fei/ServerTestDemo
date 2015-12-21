@@ -1,0 +1,8 @@
+[
+    {
+        "include" : "login/login.json"
+    },
+    {
+        "include" : "asset/assetList.json"
+    }
+]
